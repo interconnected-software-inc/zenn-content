@@ -3,7 +3,7 @@ title: "Qiitaの数式記法と標準LaTeXの違い一覧"
 emoji: "🔍"
 type: "tech"
 topics: ["LaTeX", "数学", "Qiita", "KaTeX"]
-published: true
+published: false
 scheduled_publish_at: "2026-03-09 09:00"
 ---
 

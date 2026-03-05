@@ -3,7 +3,7 @@ title: "Qiitaで定理・証明・補題を見やすく書くテクニック"
 emoji: "📝"
 type: "tech"
 topics: ["LaTeX", "数学", "定理", "証明"]
-published: true
+published: false
 scheduled_publish_at: "2026-03-12 09:00"
 ---
 
