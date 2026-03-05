@@ -4,7 +4,6 @@ emoji: "📐"
 type: "tech"
 topics: ["LaTeX", "数学", "Qiita", "KaTeX"]
 published: true
-scheduled_publish_at: "2026-03-05 09:00"
 ---
 
 Qiitaで数学系の記事を書くとき、数式の見た目は読みやすさに直結します。せっかく内容が良くても、数式が崩れていたり読みにくかったりすると、それだけで離脱されてしまいます。
