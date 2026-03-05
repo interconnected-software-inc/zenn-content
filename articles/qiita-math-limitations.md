@@ -3,7 +3,7 @@ title: "Qiitaでは表現しきれない数学記法と、その解決策"
 emoji: "🧱"
 type: "tech"
 topics: ["LaTeX", "数学", "Qiita", "可換図式"]
-published: false
+published: true
 scheduled_publish_at: "2026-03-16 09:00"
 ---
 

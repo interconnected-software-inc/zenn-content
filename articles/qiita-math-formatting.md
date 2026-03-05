@@ -3,7 +3,7 @@ title: "Qiitaで数式を綺麗に表示する方法まとめ"
 emoji: "📐"
 type: "tech"
 topics: ["LaTeX", "数学", "Qiita", "KaTeX"]
-published: false
+published: true
 scheduled_publish_at: "2026-03-05 09:00"
 ---
 
